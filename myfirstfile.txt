@@ -1,1 +1,3 @@
 This line was added with TextEdit
+
+The line was added with Atom
